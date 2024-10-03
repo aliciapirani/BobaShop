@@ -91,6 +91,37 @@ Employee's Boss - Employee: An employee who is a boss can look over many employe
 
 ## Ten Queries:
 
+### Query #1: Provide a list of puree products in our inventory and their vendor that have a price higher than the average price of products in the same category.
+This query is relevant from a managerial perspective because it shows which puree products from which vendor are costing the boba shop too much money. This information can help save the shop money or even make a switch of vendors. 
+
+<img width="789" alt="Q1" src="https://github.com/user-attachments/assets/3641a5b4-6841-45c7-a227-aa16a7763110">
+
+### Query #2:  List the names of customers who have made transactions that include a drink with a price greater than $5.00.
+This query is relevant from a managerial perspective because it shows who the shop's best customers are and which drinks are making the shop good money. This information can help the shop market to a specific target market and promote specific drinks. 
+
+<img width="754" alt="Q2" src="https://github.com/user-attachments/assets/e6f01bed-e375-46e1-bcda-99d3fc9cc250">
+
+### Query #3: List the top five most profitable drinks based on sales minus cost. Show from most profitable to least profitable.
+This query is relevant from a managerial perspective because it shows the most profitable drinks. This information can help the shop focus on identifying and promoting these top five most profitable drinks to increase the shop's overall profit. 
+
+<img width="965" alt="Q3" src="https://github.com/user-attachments/assets/12671556-c07b-4b4a-bb97-7296c630f36e">
+
+### Query #4: List the quantity ordered of drinks for customers who have loyalty points greater than 50.
+This query is relevant from a managerial perspective because it shows how many drinks were ordered by customers having loyalty points higher that 50. This information highlights the effectiveness of loyalty programs, aiding in inventory management and revenue forecasting to ensure popular items are always available to meet demand.
+
+<img width="848" alt="Q4" src="https://github.com/user-attachments/assets/c0f1c617-334b-41a8-97b5-82bd64020a39">
+
+### Query #5: What are the least popular drinks based on sales in the last 3 months?
+This query is relevant from a managerial perspective because it shows the least popular drinks by looking at sales from the past three months. This information can help managers understand customer preferences and adjust their offerings accordingly to improve sales and inventory management.
+
+<img width="710" alt="Q5" src="https://github.com/user-attachments/assets/b5873773-92d0-46f3-a25a-91dd9528619c">
+
+### Query #6: List the total sales for each drink in the last month.
+This query is relevant from a managerial perspective because it shows each drinks sales from the past month. This information can help managers identify underperforming products that may need promotional support or discontinuation. 
+
+<img width="877" alt="Q6" src="https://github.com/user-attachments/assets/a3b6b0b0-1d8e-4137-9712-e8b4b54d9221">
+
+### Query 7: 
 
 ## Database Information:
 
