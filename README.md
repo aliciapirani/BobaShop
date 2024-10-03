@@ -4,15 +4,15 @@
 Women In SQL
 
 ## Team Members:
-Alicia Pirani 
+Alicia Pirani [@aliciapirani](https://github.com/aliciapirani)
 
-Alekhya Seelam
+Alekhya Seelam [@alekhyaseelam](https://github.com/alekhyaseelam)
 
-Diya Tahliani
+Diya Tahliani [@diyatahliani](https://github.com/diyatahliani)
 
-Linzey Nguyen
+Linzey Nguyen [@linzeynguyen](https://github.com/linzeynguyen)
 
-Lancey Charles
+Lancey Charles [@lanceycha](https://github.com/lanceycha)
 
 ## Scenario Description: 
 The objective is to design and implement a relational database that effectively captures the operations of a boba shop. At the core of this model is the Store entity, which interacts with various related components, including employees, transactions, drinks, and more. We aim to accurately represent these relationships, generate sample data, and populate the entities with relevant attributes. Additionally, we seek to execute meaningful queries on this data to gain valuable insights into the boba shop's performance and operations.
