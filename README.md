@@ -143,3 +143,5 @@ This query is relevant from a managerial perspective because it identifies payme
 
 ## Database Information:
 
+<img width="985" alt="database information" src="https://github.com/user-attachments/assets/9ff8283f-b936-4757-8083-0dbefa9a2638">
+
