@@ -121,7 +121,25 @@ This query is relevant from a managerial perspective because it shows each drink
 
 <img width="877" alt="Q6" src="https://github.com/user-attachments/assets/a3b6b0b0-1d8e-4137-9712-e8b4b54d9221">
 
-### Query 7: 
+### Query #7: Which day in September had the highest sales?
+This query is relevant from a managerial perspective because it identifies peak shopping times and customer behavior patterns. This information allows managers to plan staffing, inventory, and promotions more effectively for similar future events, maximizing sales opportunities. 
+
+<img width="754" alt="Q7" src="https://github.com/user-attachments/assets/df6cc45e-93d4-4431-b128-2109961bc736">
+
+### Query #8: Which customers have total loyalty points greater than 75?
+This query is relevant from a managerial perspective because it identifies the customers with greater that 75 loyalty points which allows managers to recognize and reward their most engaged and valuable customers. This information is crucial for developing targeted marketing strategies and personalized offers, which can enhance customer retention and the customer's relationship with the store. 
+
+<img width="793" alt="Q8" src="https://github.com/user-attachments/assets/b1daba1e-3b42-4aac-a3d5-e6e3cc21e9b3">
+
+### Query #9: List the drinks with minimum inventory below the average. Show from least to greatest. 
+This query is relevant from a managerial perspective because it monitos drinks with inventory levels below average. This information is crucial for maintaining optimal stock levels and ensuring customer satisfaction. It also helps prevent stockouts and informs reordering strategies, ultimately supporting sales and minimizing losses.
+
+<img width="564" alt="Q9" src="https://github.com/user-attachments/assets/0f04f688-57f4-4931-8825-a675db78598b">
+
+### Query #10: Which payment type has revenue above the average revenue?
+This query is relevant from a managerial perspective because it identifies payment types with above the average revenue. This information can help managers make decisions about technology investments, such as upgrading payment systems or integrating new payment options that appeal to customers. 
+
+<img width="907" alt="Q10" src="https://github.com/user-attachments/assets/ae11b412-3e31-4a6a-9995-ec73545e9a73">
 
 ## Database Information:
 
