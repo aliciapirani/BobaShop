@@ -146,4 +146,5 @@ This query is relevant from a managerial perspective because it identifies payme
 <img width="985" alt="database information" src="https://github.com/user-attachments/assets/9ff8283f-b936-4757-8083-0dbefa9a2638">
 
 Name of the database: cs_asp54028
+
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Qx; (where x is to be replaced by the query number).
